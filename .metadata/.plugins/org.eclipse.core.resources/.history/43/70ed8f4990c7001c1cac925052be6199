@@ -1,0 +1,13 @@
+package fr.dawan;
+
+public class ChaineDeCaractere {
+
+	public static void main(String[] args) {
+		
+		
+		//Construction implicite via String litteral 
+		String s1 = "Bonjour";
+		String s2 = "Bonjour";
+	}
+
+}

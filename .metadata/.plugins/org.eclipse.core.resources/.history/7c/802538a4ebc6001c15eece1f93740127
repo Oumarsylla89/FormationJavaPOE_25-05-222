@@ -1,0 +1,12 @@
+package fr.dawan.abstraction;
+
+public class Carre extends Forme{
+
+	@Override
+	public double aire() {
+		
+		return cote * cote;
+	}
+
+
+}

@@ -1,0 +1,9 @@
+package fr.dawan.tableaux;
+
+public class IterationTableau {
+
+	public static void main(String[] args) {
+		int[] tab = {200, 330, 50};
+	}
+
+}

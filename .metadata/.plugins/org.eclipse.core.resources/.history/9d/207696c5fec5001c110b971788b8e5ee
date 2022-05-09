@@ -1,0 +1,15 @@
+package fr.dawan.boucles;
+
+/*
+ * Boucle While : 
+ * La condition est vérifiée avant, si la condition est fausse, on ne passe pas dans 
+ * le bloc d'instruction
+ */
+public class BoucleWhile {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

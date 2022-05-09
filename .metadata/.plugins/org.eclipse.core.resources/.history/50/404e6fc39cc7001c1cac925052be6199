@@ -1,0 +1,5 @@
+package fr.dawan.exception_.exception_personnalisee;
+
+public class Voiture {
+
+}

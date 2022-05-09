@@ -1,0 +1,20 @@
+package fr.dawan.exception_.exception_personnalisee;
+
+public class Application {
+
+	public static void main(String[] args) {
+		Parking parc = new Parking();
+		
+		try {
+			parc.garerVoiture(new Voiture());
+			parc.garerVoiture(new Voiture());
+			parc.garerVoiture(new Voiture());
+			parc.garerVoiture(new Voiture());
+			parc.garerVoiture(new Voiture());
+			
+		} catch (ParkingPleinException e) {
+			System.out.println(e.getMessage());
+		}
+	}
+
+}

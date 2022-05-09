@@ -1,0 +1,11 @@
+package fr.dawan.exception_.exception_personnalisee;
+
+public class Parking {
+	
+	private Voiture tabVoiture[] = new Voiture[5];
+	//private int[] tab = new int[5];
+	
+	//Compte le nombre voiture 
+	private int compteur;
+	
+}

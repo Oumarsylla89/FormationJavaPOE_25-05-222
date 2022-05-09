@@ -1,0 +1,12 @@
+package fr.dawan.interface_.task2;
+
+public interface IProduct {
+	
+	//Lister l'ensemble des fonctionalité du client 
+	void addProduct(Product p);
+	void deleteProductById(int id);
+	void updateProduct(Product p);
+	List<Product> getAll();
+	
+	
+}

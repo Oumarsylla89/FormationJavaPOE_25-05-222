@@ -1,0 +1,13 @@
+package fr.dawan.tableaux;
+
+/*
+ * Nous allons voir les avantages et inconvenient entre l'iteration classique 
+ * et l'iteration sur un ensemble de valeur
+ */
+public class IterationClassiqueVSIterationValeur {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

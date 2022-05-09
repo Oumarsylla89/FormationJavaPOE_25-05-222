@@ -1,0 +1,17 @@
+package fr.dawan.syntaxe_de_base.variable;
+
+public class ConstanteEtRegleDeNommage {
+
+	public static void main(String[] args) {
+		
+		System.out.println("***************************CONSTANTES**************************");
+		
+		/*
+		 * Les constantes doivent être en majuscules, pour les différencier des 
+		 * autres variables 
+		 */
+		
+		int VIES_MAX = 15;
+	}
+
+}

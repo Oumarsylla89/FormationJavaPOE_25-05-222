@@ -1,0 +1,8 @@
+package fr.dawan.abstraction;
+
+public class Triangle {
+	
+	protected double base = 4;
+	protected double hauteur = 2;
+	
+}

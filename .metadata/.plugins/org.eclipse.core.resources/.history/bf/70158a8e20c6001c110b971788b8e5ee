@@ -1,0 +1,10 @@
+package fr.dawan.tableaux.exercices;
+
+public class InsererNouvelElement {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

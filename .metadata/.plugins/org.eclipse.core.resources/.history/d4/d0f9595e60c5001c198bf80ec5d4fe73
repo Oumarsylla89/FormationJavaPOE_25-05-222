@@ -1,0 +1,10 @@
+package fr.dawan.condition;
+
+public class InstructionSwitch {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package fr.dawan.tableaux;
+
+public class IterationTableau {
+
+	public static void main(String[] args) {
+		int[] tab = {200, 330, 50};
+		double[] tab2 = {25.0, 6.54, 100.01, 91};
+	}
+
+}

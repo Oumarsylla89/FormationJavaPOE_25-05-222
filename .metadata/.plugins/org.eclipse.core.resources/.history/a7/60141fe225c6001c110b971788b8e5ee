@@ -1,0 +1,27 @@
+package fr.dawan.tableaux;
+
+import java.util.ArrayList;
+
+/*
+ * L'objectif des tableaux dynamique dite collections est de pouvoir créer 
+ * des tableaux qu'on pourra facilement modifier; la taille peut augmenter 
+ * ou diminuer 
+ * 
+ * Nous allons utiliser la classe ArrayList pour créer nos tableaux dynamique
+ * 		o C'est un objet qui n'a pas de taille limite comme les tableaux 
+ * 		  statiques 
+ * 
+ * La classe ArrayList est utilisée pour les types evoluée (complexe)
+ * non pour le types primitifs
+ * 
+ * On peut lui affecter entre chevron le type de donnée qu'il va stocker
+ */
+public class ArrayListTest {
+
+	public static void main(String[] args) {
+		
+		//Tableau d'entier 
+		ArrayList<Integer> tab1 = new ArrayList<Integer>();
+	}
+
+}

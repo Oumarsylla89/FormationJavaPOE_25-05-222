@@ -1,0 +1,22 @@
+package fr.dawan.abstraction;
+
+public abstract class Forme {
+	
+	protected int cote = 4;
+	
+	public Forme() {
+		
+	}
+	
+	/*
+	 * Une méthode abstraite est une méthode, dont il faudra 
+	 * redefinir le contenu au niveau des sous - classes (classes
+	 * filles)
+	 */
+	public abstract double aire();
+	
+	public String decrisToi() {
+		return "Je suis la classe abstraite Forme";
+	}
+	
+}

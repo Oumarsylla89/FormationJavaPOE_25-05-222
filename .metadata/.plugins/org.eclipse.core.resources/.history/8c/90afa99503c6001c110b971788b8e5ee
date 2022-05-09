@@ -1,0 +1,23 @@
+package fr.dawan.tableaux;
+
+public class DeclarationEtInitialisationTableau {
+
+	public static void main(String[] args) {
+		
+		/*
+		 * Méthode 1
+		 * Si on connait les differents éléments du tableau
+		 */
+		int[] tab1;  //declaration du tableau
+		int[] tab2 = {12, 38, 4, 98, 78};
+		
+		System.out.println(tab2[0]);
+		System.out.println(tab2[0] + tab2[1]);
+		
+		/*
+		 * Methode 2 : Déclaration tableau
+		 */
+		int[] tab3 = new int[4];
+	}
+
+}

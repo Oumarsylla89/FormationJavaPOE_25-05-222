@@ -1,0 +1,9 @@
+package fr.dawan.syntaxe_de_base.entree_sortie_standard;
+
+public class ClasseScanner {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

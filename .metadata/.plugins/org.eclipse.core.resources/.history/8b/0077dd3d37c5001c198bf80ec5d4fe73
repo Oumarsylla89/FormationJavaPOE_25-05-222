@@ -1,0 +1,12 @@
+package fr.dawan.syntaxe_de_base.transtypage;
+
+public class IntroductionTranstypage {
+
+	public static void main(String[] args) {
+		int var1 = 4;
+		int var2 = 10;
+		
+		double quotient = var1 / var2;
+	}
+
+}

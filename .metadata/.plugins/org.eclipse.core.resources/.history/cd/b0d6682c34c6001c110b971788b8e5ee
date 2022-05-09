@@ -1,0 +1,12 @@
+package fr.dawan.constructeur;
+
+public class UtilisateurTest {
+
+	public static void main(String[] args) {
+		
+		//Un objet est crée avec le mot clé "new + constructeur"
+		Utilisateur user1 = new Utilisateur();
+		
+	}
+
+}

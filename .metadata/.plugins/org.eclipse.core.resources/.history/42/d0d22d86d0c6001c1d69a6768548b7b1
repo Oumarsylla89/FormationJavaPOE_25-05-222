@@ -1,0 +1,10 @@
+package fr.dawan.heritage;
+
+public class Client extends Utilisateur{
+	
+	private String numClient;
+	private boolean isSubscribe;
+	
+	public Client() {}
+	
+}

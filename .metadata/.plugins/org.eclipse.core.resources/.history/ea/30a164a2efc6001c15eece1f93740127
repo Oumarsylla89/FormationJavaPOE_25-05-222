@@ -1,0 +1,20 @@
+package fr.dawan.abstraction;
+
+public class Carre extends Forme{
+	
+	protected int cote = 4;
+	
+	public int prop1 = 20;
+	
+	public Carre() {
+		super();
+		System.out.println("Je suis dans la classe carre");
+	}
+	
+	@Override
+	public double aire() {
+		return cote * cote;
+	}
+
+
+}

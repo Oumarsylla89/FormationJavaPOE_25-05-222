@@ -1,0 +1,11 @@
+package fr.dawan.heritage;
+
+public class Toto {
+	
+	public String name;
+	
+	public Toto () {
+		
+	}
+
+}

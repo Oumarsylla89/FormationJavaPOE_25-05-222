@@ -1,0 +1,18 @@
+package fr.dawan.condition;
+
+public class BlocIfElse {
+
+	public static void main(String[] args) {
+		
+		/*
+		 * Expression d'un test conditionnel 
+		 * Si (condition est vraie) 
+		 * 		instructions
+		 *	Sinon
+		 *		d'autres instructions
+		 */
+		
+		
+	}
+
+}

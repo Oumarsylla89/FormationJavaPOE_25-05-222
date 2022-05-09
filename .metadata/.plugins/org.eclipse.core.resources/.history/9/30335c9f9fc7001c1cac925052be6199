@@ -1,0 +1,20 @@
+package fr.dawan.exception_.exception_personnalisee;
+
+public class Parking {
+	
+	private Voiture tabVoiture[] = new Voiture[5];
+	//private int[] tab = new int[5];
+	
+	//Compte le nombre voiture 
+	private int compteur;
+	
+	public void garerVoiture(Voiture voiture) {
+		if(compteur < 5) {
+			tabVoiture[compteur] = voiture;
+			compteur++;
+		} else {
+			throw new ParkingPleinException();
+		}
+	}
+	
+}

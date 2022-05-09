@@ -1,0 +1,15 @@
+package fr.dawan.methodes;
+
+/*
+ * Méthode : Un ensemble d'instruction réutilisable - eviter de repeter du code
+ * 
+ * Déclarer une méthode : 
+ * Visibilité[mot-clé] type-retour nom-methode(param){instructions}
+ */
+public class Methodes {
+
+	public static void main(String[] args) {
+		int[] tab = {}4, 12, 8, 18;
+	}
+
+}

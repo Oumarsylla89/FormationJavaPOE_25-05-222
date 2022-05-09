@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="fr.dawan.constructeur.Utilisateur"/>
+    <fullyQualifiedTypeName name="fr.dawan.heritage.Utilisateur"/>
+    <fullyQualifiedTypeName name="fr.dawan.object_.CompteBancaire"/>
+    <fullyQualifiedTypeName name="fr.dawan.abstraction.Triangle"/>
+    <fullyQualifiedTypeName name="fr.dawan.abstraction.Cercle"/>
+    <fullyQualifiedTypeName name="fr.dawan.polymorphisme.EtreHumain"/>
+    <fullyQualifiedTypeName name="fr.dawan.interface_.task1.Animal"/>
+    <fullyQualifiedTypeName name="fr.dawan.interface_.task2.IProduct"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+</qualifiedTypeNameHistroy>

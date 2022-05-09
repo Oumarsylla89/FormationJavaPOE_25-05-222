@@ -1,0 +1,8 @@
+package fr.dawan.syntaxe_de_base.variable;
+
+public class VariableEtTypes {
+	//Type caractère : char 
+	char c = 'a';
+	char aa;
+	c1 = 'b';
+}

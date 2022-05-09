@@ -1,0 +1,10 @@
+package fr.dawan.syntaxe_de_base.variable;
+
+public class ConstanteEtRegleDeNommage {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

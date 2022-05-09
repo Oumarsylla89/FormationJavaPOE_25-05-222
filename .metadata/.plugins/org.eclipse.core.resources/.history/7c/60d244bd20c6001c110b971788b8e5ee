@@ -1,0 +1,12 @@
+package fr.dawan.tableaux.exercices;
+
+import java.util.Scanner;
+
+public class InsererNouvelElement {
+
+	public static void main(String[] args) {
+		Scanner clavier = new Scanner(System.in);
+		double[] liste_notes; //Pour initialser la taille du tableau
+	}
+
+}

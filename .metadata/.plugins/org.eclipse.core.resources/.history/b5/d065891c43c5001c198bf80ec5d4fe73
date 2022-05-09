@@ -1,0 +1,12 @@
+package fr.dawan.syntaxe_de_base.operateurs;
+
+public class OperateursMathematique {
+
+	public static void main(String[] args) {
+		int var1 = 4; 
+		int var2;
+		//Pour utiliser une variable (locale) il faut d'abord l'initialiser
+		//System.out.println("var2 : " + var2);
+	}
+
+}

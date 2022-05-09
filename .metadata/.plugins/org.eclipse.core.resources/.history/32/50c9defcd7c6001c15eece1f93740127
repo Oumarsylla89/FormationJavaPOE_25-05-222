@@ -1,0 +1,5 @@
+package fr.dawan.object_;
+
+public class CompteBancaire extends Object{
+
+}

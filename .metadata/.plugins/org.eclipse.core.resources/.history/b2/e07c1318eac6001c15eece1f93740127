@@ -1,0 +1,12 @@
+package fr.dawan.abstraction;
+
+public abstract class Forme {
+	
+	protected int cote = 4;
+	
+	public Forme() {
+		
+	}
+	
+	
+}

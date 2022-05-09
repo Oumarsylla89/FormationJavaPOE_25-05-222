@@ -1,0 +1,10 @@
+package fr.dawan.syntaxe_de_base.transtypage;
+
+public class IntroductionTranstypage {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

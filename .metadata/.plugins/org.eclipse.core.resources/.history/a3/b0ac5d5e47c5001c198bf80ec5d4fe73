@@ -1,0 +1,34 @@
+package fr.dawan.syntaxe_de_base.entree_sortie_standard;
+
+/**
+ * 
+ * @author Admin stagiaire
+ * 
+ * Nous allons voir la méthode printf et String.format 
+ * Elle nous permette d'afficher, de produire des chaines de caractère formatées
+ *
+ */
+public class FormatageDeChaineDeCaractère {
+
+	public static void main(String[] args) {
+		int dividende = 25; 
+		int diviseur = 11;
+		
+		/*
+		 * Les sorties formatées : Le format de ce qui va être affiché
+		 * 
+		 * %s Permet de formater une chaine de caractère
+		 * %c Permet de formater un caractère 
+		 * %d Permet de formater un entier en base décimale 
+		 * %f Permet de formater un réel sous forme decimale
+		 * %n ou \n  retour à la ligne
+		 */
+		
+		// 1er solution : utilisation de println ==> [25/11]
+		System.out.println("[" + dividende + "/" + diviseur + "]");
+		
+		//2ème solution : utilisation de la méthode printf
+		System.out.printf("[%d/%d]", dividende, diviseur);
+	}
+
+}

@@ -1,0 +1,42 @@
+package fr.dawan.object_;
+
+public class CompteBancaire {
+	
+	private String nomProprietaire;
+	private String numeroCompte;
+	private double solde;
+	
+	public CompteBancaire() {
+		
+	}
+	
+	public CompteBancaire(String nomProprietaire, String numeroCompte, double solde) {
+		this.nomProprietaire = nomProprietaire;
+		this.numeroCompte = numeroCompte;
+		this.solde = solde;
+	}
+	
+	public String getNomProprietaire() {
+		return this.nomProprietaire;
+	}
+	
+	public void setNomProprietaire(String nomProprietaire) {
+		this.nomProprietaire = nomProprietaire;
+	}
+	
+	public String getNumeroCompte() {
+		return this.numeroCompte;
+	}
+	
+	public void setNumeroCompte(String numeroCompte) {
+		this.numeroCompte = numeroCompte;
+	}
+	
+	public double getSolde() {
+		return this.solde;
+	}
+	
+	public void setSolde(double azee) {
+		this.solde = azee;
+	}
+}

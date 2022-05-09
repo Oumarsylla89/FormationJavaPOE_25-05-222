@@ -1,0 +1,13 @@
+package fr.dawan.collections;
+
+/*
+ * L'interface List represente une collection ordonnées de donnée
+ * qui peuvent être des doublons
+ */
+public class ListTest {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,31 @@
+package fr.dawan.interface_.task2;
+
+import java.util.List;
+
+public class ProductFileImpl implements IProduct{
+
+	@Override
+	public void addProduct(Product p) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void deleteProductById(int id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void updateProduct(Product p) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public List<Product> getAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

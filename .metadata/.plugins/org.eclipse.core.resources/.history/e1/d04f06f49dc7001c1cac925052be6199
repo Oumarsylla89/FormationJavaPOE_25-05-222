@@ -1,0 +1,9 @@
+package fr.dawan.exception_.exception_personnalisee;
+
+public class Voiture {
+	
+	private String marque;
+	private String immatriculation;
+	private int vitesse;
+	
+}

@@ -1,0 +1,21 @@
+package fr.dawan.syntaxe_de_base.transtypage;
+
+public class TranstypageImpliciteEtExplicite {
+
+	public static void main(String[] args) {
+
+		//Transtypage implicte : Concerne le passage d'un type inferieur 
+		//vers un type superieur
+		int i = 42; 
+		double d = i;
+		System.out.println(d);
+		
+		//Transtypage explicte (cast)
+		//Passage d'un type superieur vers un type inferieur, cela implique 
+		//de faire un cast
+		//Cast : CONCERNE LES CONVERSIONS DES TYPES COMPATIBLES
+		int i1 = 123;
+		short s = i1;
+	}
+
+}

@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\Admin stagiaire.DESKTOP-8967908\Desktop\MiseEnPratique\PrepaFormationJavaToulouse\FormationJava\.metadata\.plugins\org.eclipse.jdt.core
+1755140342.index
+3709013098.index
+2609347360.index
+3320634497.index
+2213761734.index
+3184263516.index

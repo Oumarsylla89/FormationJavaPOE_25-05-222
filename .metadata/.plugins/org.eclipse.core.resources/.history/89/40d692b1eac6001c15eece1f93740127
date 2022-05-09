@@ -1,0 +1,5 @@
+package fr.dawan.abstraction;
+
+public class Carre extends Forme{
+
+}

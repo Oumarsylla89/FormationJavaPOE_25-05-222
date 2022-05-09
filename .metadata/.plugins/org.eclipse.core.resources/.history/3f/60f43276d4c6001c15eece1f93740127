@@ -1,0 +1,11 @@
+package fr.dawan.heritage;
+
+public class Toto extends Utilisateur{
+	
+	public String name;
+	
+	public Toto () {
+		
+	}
+
+}

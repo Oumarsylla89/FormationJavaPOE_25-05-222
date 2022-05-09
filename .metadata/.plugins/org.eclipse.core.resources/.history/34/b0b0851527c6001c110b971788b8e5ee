@@ -1,0 +1,12 @@
+package fr.dawan.wrapper;
+
+import java.util.ArrayList;
+
+public class WrapperTest {
+
+	public static void main(String[] args) {
+		
+		ArrayList<Integer> listElmt = new ArrayList<Integer>();
+	}
+
+}

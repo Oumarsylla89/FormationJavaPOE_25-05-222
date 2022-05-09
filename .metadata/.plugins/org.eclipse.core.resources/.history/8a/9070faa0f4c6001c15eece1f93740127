@@ -1,0 +1,13 @@
+package fr.dawan.polymorphisme;
+
+import java.util.ArrayList;
+
+public class Application {
+
+	public static void main(String[] args) {
+		
+		ArrayList<EtreHumain> tab = new ArrayList<EtreHumain>();
+		
+	}
+
+}

@@ -1,0 +1,11 @@
+package fr.dawan.syntaxe_de_base.operateurs;
+
+public class OperateursMathematique {
+	int var2;
+	public static void main(String[] args) {
+		int var1 = 4; 
+
+		System.out.println("var2 : " + var2);
+	}
+
+}

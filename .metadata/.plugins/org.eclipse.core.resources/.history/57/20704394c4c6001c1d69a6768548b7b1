@@ -1,0 +1,34 @@
+package fr.dawan.getters_and_setters;
+
+public class Utilisateur {
+	
+	//Visibilité : public 
+	//Cela veut dire que les autres classes pourront acceder à ces 
+	//attributs.
+	//Variable d'instance = Instance.Variable
+	public String nom;
+	public String prenom;
+	public int age;
+	
+	//Variable de classe ==> Classe.Variable
+	public static int nbreUtilisateur;
+	
+	//Constructeur par defaut (sans paramètre)
+	public Utilisateur() {
+		nbreUtilisateur++;
+	}
+	
+	//Constructeur avec deux paramètre (nom et prenom)
+	public Utilisateur(String nom, String prenom) {
+		this();
+		this.nom = nom;
+		this.prenom = prenom;
+		
+	}
+	
+	public Utilisateur(String nom, String prenom, int age) {
+		this(nom, prenom);
+		this.age = age;
+	}
+	
+}

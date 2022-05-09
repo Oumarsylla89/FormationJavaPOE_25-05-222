@@ -1,0 +1,16 @@
+package fr.dawan.syntaxe_de_base.entree_sortie_standard;
+
+import java.util.Scanner;
+
+public class ClasseScanner {
+
+	public static void main(String[] args) {
+		//Pour instancier une classe il faut le mot le clé new + constructeur;
+		Scanner clavier = new Scanner(System.in);
+		int n = 0; 
+		double var1 = 0.0;
+		
+		
+	}
+
+}

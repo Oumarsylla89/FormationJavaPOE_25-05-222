@@ -1,0 +1,18 @@
+package fr.dawan.syntaxe_de_base.entree_sortie_standard;
+
+/**
+ * 
+ * @author Admin stagiaire
+ * 
+ * Nous allons voir la méthode printf et String.format 
+ * Elle nous permette d'afficher, de produire des chaines de caractère formatées
+ *
+ */
+public class FormatageDeChaineDeCaractère {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

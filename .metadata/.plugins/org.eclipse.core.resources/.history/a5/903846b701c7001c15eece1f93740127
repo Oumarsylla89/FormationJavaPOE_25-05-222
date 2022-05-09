@@ -1,0 +1,21 @@
+package fr.dawan.collections;
+
+import java.util.ArrayList;
+import java.util.List;
+
+/*
+ * L'interface List represente une collection ordonnées de donnée
+ * qui peuvent être des doublons(données identiques)
+ * 
+ * Elle apparait comme un tableau qui n'aurait pas de contrainte 
+ * de taille lorsqu'on ajoute ou efface des éléments
+ */
+public class ListTest {
+
+	public static void main(String[] args) {
+		
+		//utilisation du polymorphisme
+		List<String> list = new ArrayList<String>();
+	}
+
+}

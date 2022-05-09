@@ -1,0 +1,19 @@
+package fr.dawan.syntaxe_de_base.variable;
+
+public class VariableEtTypes {
+	public static void main(String[] args) {
+		
+		//Declaration d'une variable 
+		/*
+		 * type nom_variable = valeur;
+		 */
+		
+		//Type caractère : char
+		char c = 'a';
+		char c1;
+		c1 = 'b';
+		
+		//Type Entier : byte, short, int, long
+		
+	}
+}

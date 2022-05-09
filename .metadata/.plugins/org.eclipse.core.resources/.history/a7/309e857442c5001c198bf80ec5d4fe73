@@ -1,0 +1,10 @@
+package fr.dawan.syntaxe_de_base.operateurs;
+
+public class OperateurDaffectationSimplifiee {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

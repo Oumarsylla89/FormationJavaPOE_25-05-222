@@ -1,0 +1,19 @@
+package fr.dawan.condition;
+
+public class OperateurTernaire {
+
+	public static void main(String[] args) {
+		int nbre = 10;
+		String str = "";
+		
+		/*
+		 * Instruction If-Else
+		 */
+		if(nbre > 0) {
+			str = "Positif";
+		} else {
+			str= "Négatif";
+		}
+	}
+
+}

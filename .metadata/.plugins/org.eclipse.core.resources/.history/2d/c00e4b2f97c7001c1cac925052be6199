@@ -1,0 +1,13 @@
+package fr.dawan.exception_;
+
+public class UtilisateurTest {
+
+	public static void main(String[] args) {
+		
+		int nbre = 7;
+		
+		System.out.println(nbre / 7);
+		 
+	}
+
+}

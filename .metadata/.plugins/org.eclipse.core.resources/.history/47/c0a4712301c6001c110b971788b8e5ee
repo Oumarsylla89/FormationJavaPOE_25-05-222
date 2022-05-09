@@ -1,0 +1,28 @@
+package fr.dawan.tableaux;
+
+import java.util.Scanner;
+
+/*
+ * Nous verrons les tableaux statiques et les tableaux dynamiques (collections)
+ * 	- Un tableau statique à une taille fixe. 
+ * On ne peut pas la modifié une fois déclarée. 
+ * - Un tableau dynamique nous permet de créer des tabeaux de taille dynamique
+ * 		o Nous pouvons augmenter et diminuer la taille 
+ * 		o Ces tableaux ne peuvent contenir que des references vers des objets 
+ * 
+ */
+public class TableauUtilite {
+
+	public static void main(String[] args) {
+		Scanner clavier = new Scanner(System.in);
+		int age1, age2;
+		double moyenne;
+		
+		System.out.println("Entrer l'age de l'utilisateur1 :");
+		age1 = clavier.nextInt();
+		
+		System.out.println("Entrer l'age de l'utilisateur2 :");
+		age2 = clavier.nextInt();
+	}
+
+}

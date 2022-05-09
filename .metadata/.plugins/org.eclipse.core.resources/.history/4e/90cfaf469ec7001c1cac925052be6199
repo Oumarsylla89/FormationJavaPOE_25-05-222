@@ -1,0 +1,7 @@
+package fr.dawan.exception_.exception_personnalisee;
+
+public class Parking {
+	
+	private Voiture tabVoiture[] = new Voiture[5];
+	
+}

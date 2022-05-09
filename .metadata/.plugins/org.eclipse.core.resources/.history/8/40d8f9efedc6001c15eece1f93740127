@@ -1,0 +1,10 @@
+package fr.dawan.abstraction;
+
+public class Triangle extends Forme{
+	
+	protected double base = 4;
+	protected double hauteur = 2;
+	
+	
+	
+}

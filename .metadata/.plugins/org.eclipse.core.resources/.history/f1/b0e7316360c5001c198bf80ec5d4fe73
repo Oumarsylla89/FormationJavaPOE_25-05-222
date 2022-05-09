@@ -1,0 +1,16 @@
+package fr.dawan.condition;
+
+import java.util.Scanner;
+
+public class InstructionSwitch {
+
+	public static void main(String[] args) {
+		
+		Scanner clavier = new Scanner(System.in);
+		
+		//Solution 1  : Bloc ELse-If 
+		
+		
+	}
+
+}

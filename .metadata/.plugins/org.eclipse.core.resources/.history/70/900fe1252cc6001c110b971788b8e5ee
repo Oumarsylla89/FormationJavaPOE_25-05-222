@@ -1,0 +1,49 @@
+package fr.dawan.methodes;
+
+/*
+ * Méthode : Un ensemble d'instruction réutilisable - eviter de repeter du code
+ * 
+ * Déclarer une méthode : 
+ * Visibilité[mot-clé] type-retour nom-methode(param){instructions}
+ * 
+ * La Surcharge : 
+ * La surcharge d'une méthode ou d'un constructeu permet de definir 
+ * plusieurs fois une methode/constructeur avec des arguments differents 
+ * 
+ * Quel est avantage ? 
+ * Nous n'avons pas besoin de créer et memoriser des noms differents 
+ * pour des méthodes faisant la même chpse 
+ * Par exemple, dans notre code, si la surcharge n'etait pas prise en 
+ * charge par Java, somme1, somme2,... ou somme2Int, ..etc
+ */
+public class Methodes {
+
+	public static void main(String[] args) {
+		int[] tab = {4, 12, 8, 18};
+		afficher();
+		afficher(tab);
+		
+	}
+	
+	/**
+	 * Methode afficher
+	 * void  ==> Si aucune valeur n'est retournée, renvoyée
+	 * on utilise le pseudo-type void
+	 */
+	public static void afficher() {
+		System.out.println("Methode afficher");
+	}
+	
+	/**
+	 * Affiche les éléments d'un tableau
+	 * @param tab
+	 */
+	public static void afficher(int[] tab) {
+		for (int item : tab) {
+			System.out.println(item);
+		}
+	}
+	
+	
+
+}

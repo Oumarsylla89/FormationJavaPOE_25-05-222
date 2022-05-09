@@ -1,0 +1,11 @@
+package fr.dawan.syntaxe_de_base.entree_sortie_standard;
+
+import java.util.Scanner;
+
+public class ClasseScanner {
+
+	public static void main(String[] args) {
+		Scanner clavier = new Scanner(System.in);
+	}
+
+}

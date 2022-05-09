@@ -1,0 +1,5 @@
+package fr.dawan.abstraction;
+
+public class Cercle extends Forme{
+
+}

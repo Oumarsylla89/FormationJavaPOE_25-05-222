@@ -1,0 +1,9 @@
+package fr.dawan.object_;
+
+public class CompteBancaire {
+	
+	private String nomPropritaire;
+	private String numeroCompte;
+	private double solde;
+	
+}

@@ -1,0 +1,18 @@
+package fr.dawan.tableaux;
+
+/*
+ * Nous verrons les tableaux statiques et les tableaux dynamiques (collections)
+ * 	- Un tableau statique à une taille fixe. 
+ * On ne peut pas la modifié une fois déclarée. 
+ * - Un tableau dynamique nous permet de créer des tabeaux de taille dynamique
+ * 		o Nous pouvons augmenter et diminuer la taille 
+ * 		o Ces tableaux ne peuvent contenir que des references vers des objets 
+ * 
+ */
+public class TableauUtilite {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

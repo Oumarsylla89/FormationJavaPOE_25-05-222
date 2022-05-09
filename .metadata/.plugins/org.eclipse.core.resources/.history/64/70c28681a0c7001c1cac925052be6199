@@ -1,0 +1,10 @@
+package fr.dawan.exception_.exception_personnalisee;
+
+public class Application {
+
+	public static void main(String[] args) {
+		Parking parc = new Parking();
+		parc.garerVoiture(new Voiture());
+	}
+
+}

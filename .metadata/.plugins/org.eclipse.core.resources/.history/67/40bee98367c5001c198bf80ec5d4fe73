@@ -1,0 +1,58 @@
+package fr.dawan.condition;
+
+import java.util.Scanner;
+
+public class InstructionSwitch {
+
+	public static void main(String[] args) {
+
+		Scanner clavier = new Scanner(System.in);
+		int jours = 7;
+
+		//Fournir les données d'entrée 
+		System.out.print("Saisir le numero du jour : ");
+		jours = clavier.nextInt();
+
+		//Solution 1  : Bloc ELse-If 
+		if(jours == 1) {
+			System.out.println("Lundi");
+		}else if (jours == 2) {
+			System.out.println("Mardi");
+		}else if (jours == 3) {
+			System.out.println("Mercredi");
+		} else if (jours == 4) {
+			System.out.println("Jeudi");
+		}else if (jours == 5) {
+			System.out.println("Vendredi");
+		}else if (jours == 6) {
+			System.out.println("Samedi");
+		}else if (jours == 7) {
+			System.out.println("Dimanche");
+		} else {
+			System.out.println("Entrée invalid : veuillez saisir le numero du jours"
+					+ "entre 1 et 7" );
+		}
+
+		/*
+		 * 2ème solution : Instruction Switch
+		 */
+		switch(jours) {
+		case 1 : 
+			System.out.println("Lundi");
+		case 2 : 
+			System.out.println("Lundi");
+		case 3 : 
+			System.out.println("Lundi");
+		case 4 : 
+			System.out.println("Lundi");
+		case 5 : 
+			System.out.println("Lundi");
+		case 6 : 
+			System.out.println("Lundi");
+		case 7 : 
+			System.out.println("Lundi");
+
+		}
+	}
+
+}

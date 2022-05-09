@@ -1,0 +1,15 @@
+package fr.dawan.heritage;
+
+public class UtilisateurTest {
+
+	public static void main(String[] args) {
+		
+		Client client = new Client();
+		System.out.println(client.decrisToi());
+		
+		Toto toto1 = new Toto();
+		System.out.println(toto1.decrisToi());
+		 
+	}
+
+}
